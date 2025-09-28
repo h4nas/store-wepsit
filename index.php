@@ -41,6 +41,7 @@
             border: 1px solid #ddd;
             border-radius: 5px;
         }
+        
         form label {
             display: inline-block;
             padding: 10px 20px;
