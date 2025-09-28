@@ -1,4 +1,5 @@
 <?php
+
 include('config.php');
 if(isset($_POST['upload'])){
     $NAME = $_POST['name'];
