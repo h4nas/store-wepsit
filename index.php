@@ -54,7 +54,7 @@
         }
         form button {
             background: #28a745;
-            color: #fff;
+            color: #d29b9bff;
             border: none;
             padding: 10px 20px;
             border-radius: 5px;
