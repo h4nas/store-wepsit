@@ -52,7 +52,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
             padding: 0;
             font-family: Arial, sans-serif;
             background: linear-gradient(135deg, #007BFF, #FF6F61);
-            color: #fff;
+            color: #f39c9cff;
             display: flex;
             justify-content: center;
             align-items: center;
