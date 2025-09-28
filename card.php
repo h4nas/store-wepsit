@@ -4,7 +4,7 @@
     <link href="bootstrap.min.css" rel="stylesheet">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>عربتي | منتجاتي</title>
+    <title>عربتي  | منتجاتي</title>
     <style>
         h3{
             font-family:'cairo', sans-serif;
