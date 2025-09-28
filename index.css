@@ -33,7 +33,7 @@ label{
     cursor: pointer;
     font-weight: bold;
     font-size: 15px;
-    background-color: darkcyan;
+    background-color: rgb(193, 210, 99);
     font-family: 'cairo',sans-serif;
     color: white;
 }
