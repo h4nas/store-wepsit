@@ -1,4 +1,5 @@
 <?php
+
 include('config.php');
 if(isset($_POST['add'])){
     $NAME=$_POST['name'];
