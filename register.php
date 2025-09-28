@@ -1,5 +1,6 @@
 
 <?php
+
 $lifetime=30 * 24 * 60 * 60;
 session_set_cookie_params($lifetime);
 
@@ -38,6 +39,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 // إذا كان البريد الإلكتروني قد أُرسل من صفحة تسجيل الدخول
 $email = isset($_GET['email']) ? $_GET['email'] : '';
 ?>
+
 
 <!DOCTYPE html>
 <html lang="en">
