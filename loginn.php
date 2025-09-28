@@ -96,7 +96,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
             border-radius: 5px;
             background: #ff6f61;
             color: #fff;
-            font-size: 18px;
+            font-size: 19px;
             cursor: pointer;
             transition: background 0.3s;
         }
