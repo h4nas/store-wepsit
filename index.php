@@ -52,7 +52,7 @@
             transition: background 0.3s;
         }
         form label:hover {
-            background: #0056b3;
+            background: #366facff;
         }
         form button {
             background: #28a745;
