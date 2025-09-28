@@ -21,7 +21,7 @@
 
         }
         thead{
-            background-color: blue;
+            background-color: green;
             color:whitesmoke;
             text-align:center;
 
