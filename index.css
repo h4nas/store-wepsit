@@ -1,6 +1,6 @@
 .main{
     width: 40%;
-    box-shadow: 1px 1px 10px silver;
+    box-shadow: 1px 1px 10px rgb(222, 130, 130);
     margin-top: 45px;
     padding: 10px;
 
@@ -22,7 +22,7 @@ button{
     width: 40%;
     font-weight: bold;
     font-size: 15px;
-    background-color: green;
+    background-color: rgb(149, 184, 149);
     cursor: pointer;
     font-family: 'cairo',sans-serif;
     margin-bottom: 15px;
@@ -33,7 +33,7 @@ label{
     cursor: pointer;
     font-weight: bold;
     font-size: 15px;
-    background-color: darkcyan;
+    background-color: rgb(193, 210, 99);
     font-family: 'cairo',sans-serif;
     color: white;
 }

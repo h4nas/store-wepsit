@@ -5,10 +5,11 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Shopping Online</title>
     <!-- Bootstrap CSS -->
+
     <link href="bootstrap.min.css" rel="stylesheet">
     <style>
         body {
-            background: linear-gradient(to bottom, #4facfe, #00f2fe);
+            background: linear-gradient(to bottom, #4ffec4ff, #00f2fe);
             font-family: 'Arial', sans-serif;
             color: #333;
         }
@@ -40,6 +41,7 @@
             border: 1px solid #ddd;
             border-radius: 5px;
         }
+        
         form label {
             display: inline-block;
             padding: 10px 20px;
@@ -50,7 +52,7 @@
             transition: background 0.3s;
         }
         form label:hover {
-            background: #0056b3;
+            background: #366facff;
         }
         form button {
             background: #28a745;

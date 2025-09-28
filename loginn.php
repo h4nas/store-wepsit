@@ -72,7 +72,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
             padding: 20px;
             text-align: center;
             width: 300px;
-            box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2);
+            box-shadow: 0 8px 20px rgba(4, 0, 0, 0.2);
         }
 
         .login-box h2 {
@@ -96,7 +96,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
             border-radius: 5px;
             background: #ff6f61;
             color: #fff;
-            font-size: 18px;
+            font-size: 19px;
             cursor: pointer;
             transition: background 0.3s;
         }
