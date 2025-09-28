@@ -13,7 +13,7 @@
         }
         main{
             width: 40%;
-            margin-top:30px;
+            margin-top:35px;
 
         }
         table{
