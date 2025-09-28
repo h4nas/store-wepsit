@@ -22,7 +22,7 @@
         }
         thead{
             background-color: blue;
-            color:white;
+            color:whitesmoke;
             text-align:center;
 
         }
